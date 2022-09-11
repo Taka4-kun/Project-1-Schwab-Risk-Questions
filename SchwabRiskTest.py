@@ -62,8 +62,8 @@ else:
     print('Sorry that is not a valid answer')
 
 answer_four = input("""Question 4: What amount of financial risk are you willing to take when you invest? 
-A) Take lowe than average risks wxpecting to earn lower than average returns
-B)Take average risks expecting to earn average returns
+A) Take lower than average risks expecting to earn lower than average returns
+B) Take average risks expecting to earn average returns
 C) Take above average risks expecting to earn above average returns
 
 """)
